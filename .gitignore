@@ -1,0 +1,11 @@
+# Directori de build de PyInstaller o altres
+dist/
+build/
+
+# Directori de configuració de VS Code
+.vscode/
+
+# Carpetes de compilació de Python
+**/__pycache__/
+*.py[cod]
+*$py.class
